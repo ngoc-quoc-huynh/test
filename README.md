@@ -82,8 +82,8 @@
   </tr>
 </table>
 
-| ![Splash Screen](dark/splash_screen.webp) | ![Ranked](dark/ranked.webp)                     | ![Game Selected](dark/game_selected.webp)  | ![Game Correct](dark/game_correct.webp)  |
-|:-------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------:|:----------------------------------------:|
-| *Splash Screen*                            | *Ranked*                                       | *Game Selected*                            | *Game Correct*                          |
+| <a><picture><source media="(prefers-color-scheme: dark)" srcset="./dark/splash_screen.web"><img src="./light/splash_screen.web" alt="Splash screen" /></picture></a> | ![Ranked](dark/ranked.webp)                     | ![Game Selected](dark/game_selected.webp)  | ![Game Correct](dark/game_correct.webp)  |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------:|:----------------------------------------:|
+|                                                                           *Splash Screen*                                                                            | *Ranked*                                       | *Game Selected*                            | *Game Correct*                          |
 
 <img alt="base_item" src="https://github.com/user-attachments/assets/58f95745-a61d-409e-934f-7cb40abc3c20">
