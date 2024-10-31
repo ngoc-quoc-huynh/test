@@ -83,13 +83,8 @@
 </table>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/dark/splash_screen.webp">
-  <img src="/light/splash_screen.webp" alt="light" />
-</picture>
-
-|     <picture><source media="(prefers-color-scheme: dark)" srcset="/dark/splash_screen.webp"><img src="/light/splash_screen.webp" alt="light" /></picture>     | ![Ranked](dark/ranked.webp)                     | ![Game Selected](dark/game_selected.webp)  | ![Game Correct](dark/game_correct.webp)  |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------:|:----------------------------------------:|
-|                                                                        *Splash Screen*                                                                        | *Ranked*                                       | *Game Selected*                            | *Game Correct*                          |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="/dark/splash_screen.webp"><img src="/light/splash_screen.webp" alt="Splash screen" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="/dark/ranked.webp"><img src="/light/ranked.webp" alt="Splash screen" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="/dark/game_selected.webp"><img src="/light/game_selected.webp" alt="Splash screen" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="/dark/game_correct.webp"><img src="/light/game_correct.webp" alt="Splash screen" /></picture> |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                         Splash Screen                                                                         |                                                                     Ranked                                                                      |                                                                        Game Selected*                                                                         |                                                                        Game Correct                                                                         |
 
 <img alt="base_item" src="https://github.com/user-attachments/assets/58f95745-a61d-409e-934f-7cb40abc3c20">
