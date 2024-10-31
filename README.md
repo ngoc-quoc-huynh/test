@@ -3,6 +3,6 @@
 <p align="center">
   <img src="a.webp" alt="Teamfight Tactics" />
 </p>
-<img width="180" alt="base_item" src="https://github.com/user-attachments/assets/17957e43-20af-4d5d-a307-8adbeec667ad">
 
-![base_item](https://github.com/user-attachments/assets/8296ecd2-234f-44de-9582-9ac2a4dc121c)
+
+<img alt="base_item" src="https://github.com/user-attachments/assets/4962cc16-1262-44a7-8142-abc32e17417f">
